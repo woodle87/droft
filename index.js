@@ -1,7 +1,7 @@
 
-import Preload from './scenes/Preload.js'
-import Game from './scenes/Game.js'
-import DebugHUD from './scenes/DebugHUD.js'
+import Preload from 'https://cdn.jsdelivr.net/gh/woodle87/droft@main/scenes/Preload.js'
+import Game from 'https://cdn.jsdelivr.net/gh/woodle87/droft@main/scenes/Game.js'
+import DebugHUD from 'https://cdn.jsdelivr.net/gh/woodle87/droft@main/scenes/DebugHUD.js'
 
 const config = {
   type            : Phaser.AUTO,
